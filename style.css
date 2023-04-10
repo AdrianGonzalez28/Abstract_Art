@@ -1,0 +1,123 @@
+#dark-orange-box {
+    width:515px ;
+    height:325px ;
+    background-color:#d53605 ;
+    border: black solid 45px;
+    box-sizing: border-box;
+    position: relative;
+
+}
+
+#blue-box{
+    width:515px ;
+    height:221px ;
+    background-color: #3b05d5 ;
+    box-sizing: border-box;
+    border: solid black 70px;
+    position:relative;
+    left: 550px;
+    bottom:320px;
+    box-shadow: 0 5px 2px -2px gray;
+    
+}
+
+#gold-box {
+    width:127px ;
+    height:252px ;
+    background-color: #d48e04 ;
+    box-sizing: border-box;
+    border: solid black 25px;
+    position:relative;
+    left: 1080px;
+    bottom:480px;
+    box-shadow: 0 5px 2px -2px gray;
+}
+
+#neon-div-holder {
+    width:515px ;
+    height:335px ;
+    background-color: white ;
+    border: black solid 20px;
+    box-sizing: border-box;
+    position: relative;
+    bottom:450px;
+}
+
+#neon-box {
+    width:219px ;
+    height:235px ;
+    background-color: #1fd519 ;
+    box-sizing: border-box;
+    position: relative;
+    bottom:-35px;
+    left:108px;
+}
+
+
+#light-green-box {
+    width:127px ;
+    height:335px ;
+    background-color:#1fd570 ;
+    border: black solid 28px;
+    box-sizing: border-box;
+    position: relative;
+    bottom:785px;
+    left:630px;
+}
+
+#purple-div-holder {
+    width:453px ;
+    height:130px ;
+    border: black solid 5px;
+    box-sizing: border-box;
+    position: relative;
+    top: -1120px;
+    left:755px;
+}
+
+
+
+#purple-box {
+    width:300px ;
+    height:90px ;
+    background-color: #d505a7 ;
+    box-sizing: border-box;
+    position: relative;
+    top: -1230px;
+    left:837px;
+}
+
+
+
+#magenta-div-holder {
+    width:304px ;
+    height:145px ;
+    background-color: white ;
+    border: solid black 23px;
+    box-sizing: border-box;
+    position: relative;
+    top: -1175px;
+    left:903px;
+}
+
+#magenta-box {
+    width:204px ;
+    height:100px ;
+    background-color: #7a06b0 ;
+    box-sizing: border-box;
+    position: relative;
+    top: -1298px;
+    left:955px;
+}
+
+
+#orange-box {
+    width:1207px ;
+    height:90px ;
+    background-color: #d55c05;
+    border: black solid 28px;;
+    box-sizing: border-box;
+    position: relative;
+    top: -1250px;
+    box-shadow: 0 5px 2px -2px gray;
+}
